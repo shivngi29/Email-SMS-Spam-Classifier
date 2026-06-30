@@ -1,0 +1,5 @@
+1. streamlit
+2. scikit-learn
+3. nltk
+4. numpy
+5. pandas
