@@ -15,15 +15,7 @@ The application preprocesses the input text, converts it into numerical features
 
 ---
 
-## 📸 Application Preview
 
-*![Home Page](screenshots/Home.jpeg)
-
-![Spam Prediction](screenshots/Spam.jpeg)
-
-![Ham Prediction](screenshots/NotSpam.jpeg)*
-
----
 
 ## Features
 
